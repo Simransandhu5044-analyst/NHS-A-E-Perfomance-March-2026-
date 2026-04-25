@@ -21,5 +21,4 @@ Files in this repo
 - `nhs ae dashboard final.twbx` — Tableau workbook
 - `nhs final project.docx` — full written report with recommendations
 
- Dashboard Preview
-[Screenshot 2026-04-25]
+![Dashboard Preview](Screenshot 2026-04-25 at 12.22.20.png)
